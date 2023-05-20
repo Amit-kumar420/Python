@@ -1,1 +1,10 @@
 # Python
+[1.1.pdf](https://github.com/Amit-kumar420/Python/files/11521667/1.1.pdf)
+[3.2 and 3.3.pdf](https://github.com/Amit-kumar420/Python/files/11521668/3.2.and.3.3.pdf)
+[Amit kumar 2.2.pdf](https://github.com/Amit-kumar420/Python/files/11521669/Amit.kumar.2.2.pdf)
+[Amit kumar exp 1.2.pdf](https://github.com/Amit-kumar420/Python/files/11521670/Amit.kumar.exp.1.2.pdf)
+[Exp 2.3 (2).pdf](https://github.com/Amit-kumar420/Python/files/11521671/Exp.2.3.2.pdf)
+[Python 3.1 Amit kumar.pdf](https://github.com/Amit-kumar420/Python/files/11521672/Python.3.1.Amit.kumar.pdf)
+[Python Worksheet 1.3.pdf](https://github.com/Amit-kumar420/Python/files/11521673/Python.Worksheet.1.3.pdf)
+[Python_2.1 AMIT KUMAR.pdf](https://github.com/Amit-kumar420/Python/files/11521674/Python_2.1.AMIT.KUMAR.pdf)
+[Python_2.4.pdf](https://github.com/Amit-kumar420/Python/files/11521675/Python_2.4.pdf)
